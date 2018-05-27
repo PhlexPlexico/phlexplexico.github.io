@@ -9,8 +9,8 @@ bingoList[2] = [
   { name: "Keaton Quiz HP", types: ["delivery"] },
   { name: "Blank B Button (No Sword)", types: ["sword","epona"] },
   { name: "Clear all 3 chest icons on Termina Field Map", types: ["map"] },
-  { name: "Rosa Sisters Notebook Ribbon", types: ["notebook"] },
-  { name: "Ghost Hand Notebook Ribbon", types: ["notebook","deed"] }
+  //{ name: "Rosa Sisters Notebook Ribbon", types: ["notebook"] },
+  //{ name: "Ghost Hand Notebook Ribbon", types: ["notebook","deed"] }
 ];
 bingoList[3] = [
   { name: "Milk", types: ["bottle","ranch"] },
@@ -25,7 +25,7 @@ bingoList[4] = [
   { name: "Woodfall Map and Compass", types: ["woodfall","mc"] },
   { name: "Save sun mask", types: ["couple"] },
   { name: "7 masks", types: ["mask"] },
-  { name: "6 Notebook Ribbons", types: ["notebook"] },
+  //{ name: "6 Notebook Ribbons", types: ["notebook"] },
   { name: "All 5 Termina Grotto HPs", types: ["heart"] },
   { name: "Woodfall Boss Key", types: ["woodfall","bosskey"] }
 ];
@@ -35,7 +35,7 @@ bingoList[5] = [
   { name: "Bunny Hood", types: ["ranch"] },
   { name: "Epona's Song", types: ["song","epona","ranch"] },
   { name: "Doggy Racetrack HP", types: ["ranch"] },
-  { name: "Postman Notebook Ribbon", types: ["notebook","delivery","couple"] },
+  //{ name: "Postman Notebook Ribbon", types: ["notebook","delivery","couple"] },
   { name: "10 Woodfall Fairies", types: ["fairy","woodfall"] }
 ];
 bingoList[6] = [
@@ -94,7 +94,7 @@ bingoList[11] = [
   { name: "Pirates’ Fortress HP", types: ["fortress"] }
 ];
 bingoList[12] = [
-  { name: "10 Notebook ribbons", types: ["notebook"] },
+  //{ name: "10 Notebook ribbons", types: ["notebook"] },
   { name: "Great Spin", types: ["fairy","woodfall"] },
   { name: "Lullaby Intro", types: ["lens","song"] },
   { name: "All top row songs", types: ["song","grave","epona"] },
@@ -111,7 +111,7 @@ bingoList[13] = [
 bingoList[14] = [
   { name: "All-Night Mask", types: ["allnight","wallet","spider"] },
   { name: "10 masks", types: ["mask"] },
-  { name: "Romani Notebook Ribbon", types: ["notebook","epona"] },
+  //{ name: "Romani Notebook Ribbon", types: ["notebook","epona"] },
   { name: "Big Poe", types: ["grave"] },
   { name: "3 real bottles (no dupe)", types: ["bottle"] },
   // { name: "Column of 4 masks on pause", types: ["mask"] },
@@ -149,7 +149,7 @@ bingoList[18] = [
   { name: "4 real bottles (no dupe)", types: ["bottle"] },
   { name: "2 Boss Keys", types: ["bosskey"] },
   { name: "Open 10 chests in Snowhead", types: ["snowhead"] },
-  { name: "Gorman Brothers Notebook ribbon", types: ["notebook","epona","ranch"] },
+  //{ name: "Gorman Brothers Notebook ribbon", types: ["notebook","epona","ranch"] },
   { name: "Hit all 10 owl statues", types: ["hook","stt"] },
   { name: "Goht's Remains", types: ["snowhead","remains"] }
 ];
@@ -157,8 +157,8 @@ bingoList[19] = [
   { name: "Light Arrows", types: ["elemental","stt"] },
   { name: "5 STT Fairies", types: ["stt"] },
   { name: "Beaver HP", types: ["hook","bottle"] },
-  { name: "20 pictures in Notebook", types: ["notebook"] },
-  { name: "Curiosity Shop Owner Notebook Ribbon", types: ["notebook","allnight","spider"] },
+  //{ name: "20 pictures in Notebook", types: ["notebook"] },
+  //{ name: "Curiosity Shop Owner Notebook Ribbon", types: ["notebook","allnight","spider"] },
   { name: "7 songs", types: ["song"] },
   { name: "New Wave Bossa Nova", types: ["song","fortress","gbt"] },
   { name: "10 unique bottle contents", types: ["bottle"] }
@@ -207,7 +207,7 @@ bingoList[24] = [
   { name: "3 Temple Compasses", types: ["mc"] }
 ];
 bingoList[25] = [
-  { name: "15 Notebook ribbons", types: ["notebook"] },
+  //{ name: "15 Notebook ribbons", types: ["notebook"] },
   { name: "Melt 3 Ice Blocks in GBT", types: ["gbt","elemental"] },
   { name: "Gilded Sword", types: ["sword","snowhead","remains"] },
   { name: "Cremia's reward (hug or 200 rupees)", types: ["ranch"] },
